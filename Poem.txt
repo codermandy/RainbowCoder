@@ -19,6 +19,11 @@ Persistence
 Consistency
 Creativity 
 
+Mangoes
+Bananas
+Pineapple
+Strawberry
+Apple
 
 
 Achievement
